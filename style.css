@@ -479,3 +479,82 @@
 
 
 
+
+
+#aboutme{
+    background-image:url('Vector\ 2\ \(1\).svg');
+    width: 1512px;
+    height: 1071px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.aboutpatr{
+    position: absolute;
+    margin-left: -270px;
+    margin-top: 20px;
+}
+.aboutcards{
+    background-color: #FFFFFF;
+    margin-left: -150px;
+    width:  1258px;
+    height: 363px;
+    border-radius: 60px;
+}
+.atitle{
+    font-family: "Poppins";
+    font-size: 64px;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 100px;
+    margin-left: 350px;
+}
+.respons{
+    img{
+        margin-left: 150px;
+        margin-top: 50px;
+    }
+    p{
+        font-family: "Poppins";
+        font-size: 64px;
+        color: rgba(27, 28, 55, 1);
+        margin-left: 140px;
+        margin-top: 12px;
+    }
+    h6{
+        font-family: "Poppins";
+        font-size: 36px;
+        color: rgba(95, 96, 115, 1);
+        margin-left: 100px;
+        margin-top: -60px;
+        }
+}
+.puntual{
+    margin-top: -400px;
+    margin-left: 820px;
+    img{
+        margin-left: 150px;
+        margin-top: 50px;
+    }
+    p{
+        font-family: "Poppins";
+        font-size: 64px;
+        color: rgba(27, 28, 55, 1);
+        margin-left: 140px;
+        margin-top: 12px;
+    }
+    h6{
+        font-family: "Poppins";
+        font-size: 36px;
+        color: rgba(95, 96, 115, 1);
+        margin-left: 130px;
+        margin-top: -60px;
+        }
+}
+.patronimgg{
+    width: 199.83px;
+    height: 95.6px;
+    margin-left: 1050px;
+    margin-top: 50px;
+}
+.high1{
+    margin-left: 1050px;
+}
